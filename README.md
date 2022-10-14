@@ -17,3 +17,6 @@ In water challenged areas that have rain, the challenge seems to be in storing t
 ## Circular Economy
 [Regenerative Material Library with Data API](https://materiom.org/)
 [Regenerative Biology](https://www.ginkgobioworks.com/)
+
+## Permaculture
+[Step Wells](https://www.bbc.com/future/article/20211012-the-ancient-stepwells-helping-to-curb-indias-water-crisis)
